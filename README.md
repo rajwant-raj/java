@@ -1,7 +1,7 @@
 # java
 
 
-
+```
 
 public class Knapsack01 {
     public static int knapsack(int[] wt, int[] val, int W, int n) {
@@ -38,6 +38,7 @@ public class Knapsack01 {
 }
 
 
+```
 
 
 
